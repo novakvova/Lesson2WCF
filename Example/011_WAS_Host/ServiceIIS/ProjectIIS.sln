@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProjectIIS", "ProjectIIS\", "{315F2464-B9C5-4373-85B0-34B09DA2ABEE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ProjectIIS"
+		Debug.AspNetCompiler.PhysicalPath = "ProjectIIS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ProjectIIS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ProjectIIS"
+		Release.AspNetCompiler.PhysicalPath = "ProjectIIS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ProjectIIS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "43505"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLibrary", "ServiceLibrary\ServiceLibrary.csproj", "{AFAF10D1-43FA-492B-B9CB-35241A1B8C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{AFAF10D1-43FA-492B-B9CB-35241A1B8C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAF10D1-43FA-492B-B9CB-35241A1B8C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAF10D1-43FA-492B-B9CB-35241A1B8C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAF10D1-43FA-492B-B9CB-35241A1B8C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

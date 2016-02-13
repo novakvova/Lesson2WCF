@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProjectIIS", "ProjectIIS\", "{315F2464-B9C5-4373-85B0-34B09DA2ABEE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ProjectIIS"
+		Debug.AspNetCompiler.PhysicalPath = "ProjectIIS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ProjectIIS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ProjectIIS"
+		Release.AspNetCompiler.PhysicalPath = "ProjectIIS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ProjectIIS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "43505"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{315F2464-B9C5-4373-85B0-34B09DA2ABEE}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

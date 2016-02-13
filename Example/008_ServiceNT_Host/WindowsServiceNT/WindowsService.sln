@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService", "WindowsService\WindowsService.csproj", "{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client\Client.csproj", "{A5895539-4899-4EDE-95E5-809E4EC7F1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|Itanium.Build.0 = Debug|Itanium
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|x64.ActiveCfg = Debug|x64
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|x64.Build.0 = Debug|x64
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|x86.ActiveCfg = Debug|x86
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Debug|x86.Build.0 = Debug|x86
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|Itanium.ActiveCfg = Release|Itanium
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|Itanium.Build.0 = Release|Itanium
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|x64.ActiveCfg = Release|x64
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|x64.Build.0 = Release|x64
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|x86.ActiveCfg = Release|x86
+		{0A9F0348-A6ED-4BB4-A0B3-ED068190ECEB}.Release|x86.Build.0 = Release|x86
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|Itanium.ActiveCfg = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|Itanium.ActiveCfg = Release|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|x64.ActiveCfg = Release|Any CPU
+		{A5895539-4899-4EDE-95E5-809E4EC7F1BD}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
